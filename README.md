@@ -4,11 +4,19 @@ A personal cash-flow dashboard with a clear, editable transaction ledger.
 
 **A junior-level, AI-assisted portfolio learning project by Yousef Rajabi.**
 
+## Screenshot
+
 ![Desktop application screenshot](docs/screenshots/desktop.png)
 
 [Mobile screenshot](docs/screenshots/mobile.png) · [Learning guide](docs/LEARNING.md) · [Checks](https://github.com/yousefrajabi06-debug/pennyscope/actions)
 
-Screenshots show the running application with fictional sample data. They are not design mockups. [Open the live Netlify app](https://yousef-pennyscope.netlify.app/).
+Screenshots show the running application with fictional sample data. They are not design mockups.
+
+## Live Demo
+
+[Open PennyScope](https://yousef-pennyscope.netlify.app/)
+
+Data stays in localStorage in this browser; use fictional records for the public demo.
 
 ## Why this project
 
